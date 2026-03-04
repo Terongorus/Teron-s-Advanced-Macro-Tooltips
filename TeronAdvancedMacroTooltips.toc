@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Teron's Advanced Macro Tooltip
+## Notes: This addon allows you to create custom tooltips, just like the '#showtooltip' command used to do it in TBC and onward. For more information, check the README.md file.
+## Author: Teron
+## Version: 1.0.1
+## Dependencies:
+
+TeronAdvancedMacroTooltips.lua
